@@ -3,7 +3,7 @@
 
   * I’m currently working on [electron86](https://github.com/esercankutay/electron86) 
   * I’m currently learning [svelte](https://svelte.dev/) 
-  * Reach me at 👉 mail@cankutayeser.com 
+  * Reach me at 👉 mail@caneser.com.tr 
   * More at [cankutayeser.com](https://cankutayeser.com)
 
 
