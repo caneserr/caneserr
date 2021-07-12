@@ -1,4 +1,5 @@
-# Hello Stranger 👋
+![asd](./files/hello.gif)
+
 **Can Kutay ESER   ❂   Software Engineer   ❂   Fullstack Developer + Embedded Tecnologies   ❂   Linux Enthusiast   ❂   Entry-Level MTB Biker**
 
   * I’m currently working on [electron86](https://github.com/esercankutay/electron86) 
@@ -9,4 +10,4 @@
 
 #HAPPY COMMITS!
 
-![asd](./files/source.gif)
+
