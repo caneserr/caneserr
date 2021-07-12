@@ -6,8 +6,3 @@
   * I’m currently learning [svelte](https://svelte.dev/) 
   * Reach me at 👉 mail@cankutayeser.com 
   * More at [cankutayeser.com](https://cankutayeser.com)
-
-
-#HAPPY COMMITS!
-
-
