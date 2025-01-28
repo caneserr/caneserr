@@ -7,4 +7,3 @@
   * Dealing with [.Net Core](https://dotnet.microsoft.com/en-us/), [React](https://reactjs.org/), [Python](https://www.python.org/) 
   * Worshipping [Docker](https://www.docker.com/), [Podman](https://podman.io/)
   * Reach me at 👉 mail@caneser.com.tr 
-  * More at [caneser.com.tr](https://caneser.com.tr)
